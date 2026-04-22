@@ -1,0 +1,28 @@
+# API Secrets (CRITICAL: Do not remove)
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+.env/
+.pytest_cache/
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Gemini CLI & Workspace settings
+.gemini/
+.vscode/
+.idea/
